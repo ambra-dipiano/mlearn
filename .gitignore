@@ -1,5 +1,23 @@
 # mine
 *.sh
+*.docx
+*.txt
+*.zip
+*.jpg
+*.png 
+*.jpeg
+*.ps 
+*.fits 
+*.xml 
+*.yaml
+*.yml 
+*.h5
+
+!environment.yml
+
+# paths
+ComputerVision/kagglecatsanddogs_3367a.zip
+ComputerVision/PetImages/*
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
@@ -130,3 +148,4 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
