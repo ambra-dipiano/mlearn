@@ -12,6 +12,10 @@
 *.yaml
 *.yml 
 *.h5
+*.json
+*.csv
+*.gz
+*.DS_Store
 
 !environment.yml
 
