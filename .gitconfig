@@ -11,6 +11,6 @@
 [filter "clean-nbs"]
         clean = nbdev_clean_nbs --read_input_stream True
         smudge = cat
-        required = true
+        required = false
 [diff "ipynb"]
         textconv = nbdev_clean_nbs --disp True --fname
