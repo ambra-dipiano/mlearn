@@ -18,6 +18,9 @@
 *.DS_Store
 
 !environment.yml
+!kaggle/dataset/house_price_competition/*.csv
+!kaggle/dataset/melbourne_housing/*.csv
+!kaggle/dataset/mobile_price_classification/*.csv
 
 # paths
 ComputerVision/kagglecatsanddogs_3367a.zip
