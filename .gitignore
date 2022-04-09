@@ -16,6 +16,7 @@
 *.csv
 *.gz
 *.DS_Store
+*-jvsc*ipynb
 
 !environment.yml
 !kaggle/dataset/house_price_competition/*.csv
